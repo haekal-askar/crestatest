@@ -1,4 +1,4 @@
-﻿Industry,Industry Segments,Occupancy
+﻿Industry,Asset Type,Occupancy
 "Agriculture, Forestry and Fishing",Agricultural Products,Agricultural miscellaneous
 "Agriculture, Forestry and Fishing",Agricultural Products,Farms
 "Agriculture, Forestry and Fishing",Agricultural Products,Feed Manufacturing/Milling/Feedlot
@@ -246,3 +246,4 @@ Waste Management,Waste Management / Recycling,Battery Recycling
 Waste Management,Waste Management / Recycling,Junk Yard / Scrap Metal Recycling
 Waste Management,Waste Management / Recycling,"Recycling, Disposal, Incineration"
 Waste Management,Waste Management / Recycling,Waste Management Facility
+

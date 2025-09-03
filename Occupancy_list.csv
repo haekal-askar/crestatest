@@ -1,0 +1,248 @@
+﻿Industry,Industry Segments,Occupancy
+"Agriculture, Forestry and Fishing",Agricultural Products,Agricultural miscellaneous
+"Agriculture, Forestry and Fishing",Agricultural Products,Farms
+"Agriculture, Forestry and Fishing",Agricultural Products,Feed Manufacturing/Milling/Feedlot
+"Agriculture, Forestry and Fishing",Agricultural Products,Grain Elevator/Storage
+"Agriculture, Forestry and Fishing",Agricultural Products,Growing Crops
+"Agriculture, Forestry and Fishing",Agricultural Products,Seed Cleaning / Processing
+Residential and Commercial,Commercial Offices,Banks
+Residential and Commercial,Commercial Offices,Offices
+Construction and Trade,Construction and Trade,Electrical engineers
+Information Media and Telecommunications,Edp / Data Centers,EDP / Data Centers
+Food and Beverage,Food & Beverage,Abattoir
+Food and Beverage,Food & Beverage,Bakery Products
+Food and Beverage,Food & Beverage,Bottling Plant
+Food and Beverage,Food & Beverage,Brewery
+Food and Beverage,Food & Beverage,Cheese Factories
+Food and Beverage,Food & Beverage,Coffee Roasting
+Food and Beverage,Food & Beverage,Confection Manufacturing
+Food and Beverage,Food & Beverage,Dairy Product Manufacturing
+Food and Beverage,Food & Beverage,Distilleries
+Food and Beverage,Food & Beverage,Fish Packing/Curing/Seafood processing
+Food and Beverage,Food & Beverage,Fish/Prawn Farms
+Food and Beverage,Food & Beverage,Food Processing/Packers
+Food and Beverage,Food & Beverage,Food Processing (with cooking)
+Food and Beverage,Food & Beverage,Fruit/Vegetable Canning
+Food and Beverage,Food & Beverage,Grain/Flour Mill/Rice Mill
+Food and Beverage,Food & Beverage,Greenhouses
+Food and Beverage,Food & Beverage,Ice Manufacturers
+Food and Beverage,Food & Beverage,Ice-Cream Factories
+Food and Beverage,Food & Beverage,Jam Factories
+Food and Beverage,Food & Beverage,Livestock (FLEXA only)
+Food and Beverage,Food & Beverage,Meat Curer
+Food and Beverage,Food & Beverage,Meat Packers & Processors
+Food and Beverage,Food & Beverage,Milk Powder Manufacturing
+Food and Beverage,Food & Beverage,Nuts/Seeds/Bean Processing
+Food and Beverage,Food & Beverage,Potato Crisp Manufacturers
+Food and Beverage,Food & Beverage,"Poultry Processing, Farms or Hatcheries"
+Food and Beverage,Food & Beverage,Preserved food Manufacturers
+Food and Beverage,Food & Beverage,Salt Works
+Food and Beverage,Food & Beverage,Seafood Processing and Manufacturing
+Food and Beverage,Food & Beverage,Soft Drinks/Mineral Water Manufacturing
+Food and Beverage,Food & Beverage,Soups and Sauces Processing
+Food and Beverage,Food & Beverage,Spice Mills
+Food and Beverage,Food & Beverage,Starch Manufacturers
+Food and Beverage,Food & Beverage,Sugar Mills & Refineries
+Food and Beverage,Food & Beverage,Tea Factories
+Food and Beverage,Food & Beverage,Tobacco Manufacturing
+Food and Beverage,Food & Beverage,Vinegar Manufacturers
+Food and Beverage,Food & Beverage,Winery
+Hospitality,Hospitality - Bars/Restaurants,Bars/Taverns/Pubs
+Hospitality,Hospitality - Bars/Restaurants,Restaurant
+Healthcare and Social Assistance,Hospitals / Medical,Hospitals
+Healthcare and Social Assistance,Hospitals / Medical,Medical Offices
+Healthcare and Social Assistance,Hospitals / Medical,Veterinary Facilities
+Hospitality,Hotels,Hotels - High
+Hospitality,Hotels,Hotels - Low
+Hospitality,Hotels,Hotels - Medium
+Infrastructure,Infrastructure,Bridges
+Infrastructure,Infrastructure,Dams
+Infrastructure,Infrastructure,Pipelines - Water
+Infrastructure,Infrastructure,Roads and Highways - Infrastructure
+Infrastructure,Infrastructure,Water/Sewerage Treatment Plant
+Manufacturing,Manufacturing - Automotive,Auto Dealer Open Lot
+Manufacturing,Manufacturing - Automotive,Auto Parts Supplies
+Manufacturing,Manufacturing - Automotive,Auto Parts and Supplies Sale
+Manufacturing,Manufacturing - Automotive,Auto Service and Repair
+Manufacturing,Manufacturing - Automotive,Auto/Truck Manufacturing
+Manufacturing,Manufacturing - Automotive,Boat Dealer/Marine Supply/Fiberglass
+Manufacturing,Manufacturing - Automotive,Boat Manufacturer
+Manufacturing,Manufacturing - Building Products,Brick/Tile Manufacturing
+Manufacturing,Manufacturing - Building Products,Building Materials Manufacturing
+Manufacturing,Manufacturing - Building Products,Car Park
+Manufacturing,Manufacturing - Building Products,Carpet/Rug/Floor Covering Manufacturer
+Manufacturing,Manufacturing - Building Products,Cement Plant
+Manufacturing,Manufacturing - Building Products,Concrete & Concrete Goods Manufacturers
+Manufacturing,Manufacturing - Building Products,Foundries 
+Manufacturing,Manufacturing - Building Products,Glass/Ceramics Products/Pottery
+Manufacturing,Manufacturing - Building Products,Gypsum Plaster Mills
+Manufacturing,Manufacturing - Building Products,Hardware Store
+Manufacturing,Manufacturing - Building Products,Insulation Manufacturing
+Manufacturing,Manufacturing - Building Products,"Quarries - Limestone, Sandstone etc"
+Manufacturing,Manufacturing - Building Products,Sand/Concrete batch plant
+Manufacturing,Manufacturing - Chemicals,Adhesive Manufacturing
+Manufacturing,Manufacturing - Chemicals,Aerosol Spray Manufacturers
+Manufacturing,Manufacturing - Chemicals,Chemical Plant - Other
+Manufacturing,Manufacturing - Chemicals,Fertiliser Plant
+Manufacturing,Manufacturing - Chemicals,Fibreglass Products / Fabrication
+Manufacturing,Manufacturing - Chemicals,Paint Shop/Signwriting
+Manufacturing,Manufacturing - Chemicals,Paint/Laquer Manufacturing
+Manufacturing,Manufacturing - Chemicals,Plastic Resin Manufacturing
+Manufacturing,Manufacturing - Chemicals,Vegetable Oil Extraction (with Hexane)
+Manufacturing,Manufacturing - Chemicals,Vegetable oil Extraction (without hexane)
+Manufacturing,Manufacturing - Electronics,Ceramics Manufacturing - Electronics
+Manufacturing,Manufacturing - Electronics,Electronic Component Manufacturing (ex Semi-Con)
+Manufacturing,Manufacturing - Electronics,Electronic Equipment/Appliance Manufacturing - Metal
+Manufacturing,Manufacturing - Electronics,Scientific & Precision Instrument Manufacturers
+Manufacturing,Manufacturing - High-Tech,Semi-Conductor Manufacturing
+Manufacturing,Manufacturing - Medical,Laboratories
+Manufacturing,Manufacturing - Metals,Aluminium Smelters
+Manufacturing,Manufacturing - Metals,Cable Manufacturing
+Manufacturing,Manufacturing - Metals,Cork Factories
+Manufacturing,Manufacturing - Metals,Jewellers - Manufacturing
+Manufacturing,Manufacturing - Metals,Metal Stockists
+Manufacturing,Manufacturing - Metals,Metalworker - magnesium/titanium/aluminum/platinum
+Manufacturing,Manufacturing - Metals,Steel Mill - Cold Rolling/Cutting/Slitting - No Furnace
+Manufacturing,Manufacturing - Metals,Steel Mill - Integrated - Arc or Blast Furnace
+Manufacturing,Manufacturing - Metals,Steel Mill - Mini Mill - No Blast furnace
+Manufacturing,Manufacturing - Metals,Stone Masons & Marble Works
+Manufacturing,Manufacturing - Other,Aircraft Manufacturing
+Manufacturing,Manufacturing - Other,Ammunition Manufacturing
+Manufacturing,Manufacturing - Other,Asphalt Batch Plant
+Manufacturing,Manufacturing - Pharmaceutical,Biotech Companies
+Manufacturing,Manufacturing - Pharmaceutical,Pharmaceutical Manufacturers - High
+Manufacturing,Manufacturing - Pharmaceutical,Pharmaceutical Manufacturers - Medium
+Manufacturing,Manufacturing - Pharmaceutical,Pharmacy
+Manufacturing,Manufacturing - Plastics/Rubber,Electronic Equipment/Appliance Manufacturing - Plastic
+Manufacturing,Manufacturing - Plastics/Rubber,Mattress Manufacturing
+Manufacturing,Manufacturing - Plastics/Rubber,Plastic mfr - expanded e.g. polystyrene
+Manufacturing,Manufacturing - Plastics/Rubber,"Plastic mfr –unexpanded –extrusion, inject, blow moulding"
+Manufacturing,Manufacturing - Plastics/Rubber,Rubber Products Manufacturing
+Manufacturing,Manufacturing - Plastics/Rubber,Tyre Manufacturing
+Manufacturing,Manufacturing - Pulp & Paper,Cardboard/box Manufacturer
+Manufacturing,Manufacturing - Pulp & Paper,Paper converting
+Manufacturing,Manufacturing - Pulp & Paper,Paper Goods Manufacturers 
+Manufacturing,Manufacturing - Pulp & Paper,Printers (paper)  - Flammable Inks/Solvents
+Manufacturing,Manufacturing - Pulp & Paper,Printers (paper)  - Non Flammable Inks
+Manufacturing,Manufacturing - Pulp & Paper,Pulp and Paper Mills (ex BLRB)
+Manufacturing,Manufacturing - Pulp & Paper,Pulp and Paper Mills (with BLRB)
+Manufacturing,Manufacturing - Textiles,Bedding Manufacturers
+Manufacturing,Manufacturing - Textiles,Clothing/Garment Manufacturing
+Manufacturing,Manufacturing - Textiles,Cotton Baled/Storage/Process/mfg
+Manufacturing,Manufacturing - Textiles,Cotton/Textiles Manufacturer
+Manufacturing,Manufacturing - Textiles,Fabric Coating / Laminating
+Manufacturing,Manufacturing - Textiles,Leather Goods Manufacturing
+Manufacturing,Manufacturing - Textiles,Natural fiber weaving 
+Manufacturing,Manufacturing - Textiles,Non Woven Materials
+Manufacturing,Manufacturing - Textiles,Rope Works
+Manufacturing,Manufacturing - Textiles,Shoe Manufacturing
+Manufacturing,Manufacturing - Textiles,Synthetic Fiber Manufacturers
+Manufacturing,Manufacturing - Textiles,Tannery
+Manufacturing,Manufacturing - Textiles,Textile - ginning and carding
+Manufacturing,Manufacturing - Textiles,Toy Manufacturers
+Manufacturing,Manufacturing - Timber/Wood/Sawmills,Furniture Manufacturing
+Manufacturing,Manufacturing - Timber/Wood/Sawmills,Lumber Yard
+Manufacturing,Manufacturing - Timber/Wood/Sawmills,Pallet Manufacturers
+Manufacturing,Manufacturing - Timber/Wood/Sawmills,Manufacturing - Plywood/MDF
+Manufacturing,Manufacturing - Timber/Wood/Sawmills,Sawmills
+Manufacturing,Manufacturing - Timber/Wood/Sawmills,Wood Products Manufacturing
+Manufacturing,Manufacturing - Timber/Wood/Sawmills,"Wooden Box, Crate, Pallet Manufacturing"
+Mining,Mining - Aboveground,Mining Coal Above Ground
+Mining,Mining - Aboveground,Mining Other Above Ground
+Mining,Mining - Below Ground,Mining Coal Below Ground 
+Mining,Mining - Below Ground,Mining Other Below Ground
+Public Administration and Safety,Municipalities,Jails/Prisons
+Public Administration and Safety,Municipalities,Municipal Buildings/State property
+Healthcare and Social Assistance,Nursing Homes,Nursing homes / Retirement Villages
+Onshore Energy,Onshore Energy,Chemical Plant - Medium
+Onshore Energy,Onshore Energy,Pipelines - Gas Condensate
+Onshore Energy,Onshore Energy,Gas in Storage
+Onshore Energy,Onshore Energy,Gas treatment plant
+Onshore Energy,Onshore Energy,Gasification plant
+Onshore Energy,Onshore Energy,LNG Production
+Onshore Energy,Onshore Energy,Petroleum/Oil in Storage
+Onshore Energy,Onshore Energy,Petrochemical
+Onshore Energy,Onshore Energy,Pipelines (Gas/Condensate)
+Onshore Energy,Onshore Energy,Refineries
+Onshore Energy,Power Generation,Power Station - Battery Energy Storage (BESS)
+Onshore Energy,Power Generation,Power Station - Biomass
+Onshore Energy,Power Generation,Power Station - Gas Fired <100MW
+Onshore Energy,Power Generation,Power Station - Gas Fired 100MW to 250MW
+Onshore Energy,Power Generation,Power Station - Gas Fired 250MW+
+Onshore Energy,Power Generation,Power Station - Geothermal
+Onshore Energy,Power Generation,Power Station - Hydro Electricity
+Onshore Energy,Power Generation,Power Station - Solar (Concentrated)
+Onshore Energy,Power Generation,Power Station - Solar (Photovolatics)
+Onshore Energy,Power Generation,Power Station - Thermal Electricity - Coal (Subcritical)
+Onshore Energy,Power Generation,Power Station - Thermal Electricity - Coal (Supercritical)
+Onshore Energy,Power Generation,Power Station - Thermal Electricity - Coal (Ultrasupercritical)
+Onshore Energy,Power Generation,Power Station - Thermal Electricity - Diesel
+Onshore Energy,Power Generation,Power Station - Wind 
+Onshore Energy,Power Generation,Substations 
+Onshore Energy,Power Generation,T&D Lines (Standalone)
+Onshore Energy,Power Generation,Resource Recovery - Waste to Energy
+Onshore Energy,Power Generation,Chemical - VCE 
+Onshore Energy,Power Generation,Compressor Stations
+Onshore Energy,Power Generation,Biodiesel plant
+Onshore Energy,Power Generation,Ethanol plant
+Hospitality,Recreation,Amusement Park/Fair Ground (Modern)
+Hospitality,Recreation,Amusement Park/Fair Ground
+Hospitality,Recreation,Aquarium
+Hospitality,Recreation,Art Galleries
+Hospitality,Recreation,Bowling Alley
+Hospitality,Recreation,Camps
+Hospitality,Recreation,Canneries
+Hospitality,Recreation,Casino/Integrated Resort
+Hospitality,Recreation,Cinemas/Theatres
+Hospitality,Recreation,Funeral Home/Mortuary
+Hospitality,Recreation,Golf/Yacht/Sports Club
+Hospitality,Recreation,Leisure Club
+Hospitality,Recreation,Libraries
+Hospitality,Recreation,Mobile Home Park
+Hospitality,Recreation,Museums
+Hospitality,Recreation,Nightclubs/Discos
+Hospitality,Recreation,Racetrack
+Hospitality,Recreation,Skating Rink
+Hospitality,Recreation,Ski Lodge
+Hospitality,Recreation,Sport complex/Fields
+Hospitality,Recreation,Sports Arena/Stadiums
+Hospitality,Recreation,Zooloigcal Parks
+Religion and Non-Profit,Religious Institutions,Churches
+Residential and Commercial,Residential,Apartments/Condominiums
+Residential and Commercial,Residential,Dormitories / Student Housing
+Residential and Commercial,Residential,Habitational - Private Dwelling
+Residential and Commercial,Residential,Habitational - High Value Homeowners
+Retail and Wholesale Trade,Retail,Convenience Store
+Retail and Wholesale Trade,Retail,Convention / Exhibition / Community Hall
+Retail and Wholesale Trade,Retail,Department Stores
+Retail and Wholesale Trade,Retail,Dry Cleaner / Laundry
+Retail and Wholesale Trade,Retail,Petrol/Gas Stations
+Retail and Wholesale Trade,Retail,Retail - Homemaker Centres
+Retail and Wholesale Trade,Retail,Retail - Sporting Goods Sales
+Retail and Wholesale Trade,Retail,Retail shops
+Retail and Wholesale Trade,Retail,Shopping Centres and Malls
+Retail and Wholesale Trade,Retail,Supermarkets
+Retail and Wholesale Trade,Retail,TV / Radio equipment in Transit
+Infrastructure,Roads and Infrastructure,Tunnels
+Education and Training,Schools & Universities,Schools
+Education and Training,Schools & Universities,Universities
+Information Media and Telecommunications,Telecommunications,Film Studios/ Movie Production
+Information Media and Telecommunications,Telecommunications,Radio & TV Stations
+Information Media and Telecommunications,Telecommunications,Radio Towers
+Information Media and Telecommunications,Telecommunications,"Telecoms, Switching Stations and Networks"
+Transport and Warehousing,Transport - Ports,Airports
+Transport and Warehousing,Transport - Ports,Piers/Wharfs (concrete/modern)
+Transport and Warehousing,Transport - Ports,Piers/Wharfs (timber/historical)
+Transport and Warehousing,Transport - Ports,Port/Ship Commercial goods terminal
+Transport and Warehousing,Transport - Ports,Port/Shipping Terminal (passenger)
+Transport and Warehousing,Transport - Rail,Railway Companies (Fully Integrated)
+Transport and Warehousing,Transport - Rail,Railway Rolling Stock (only)
+Transport and Warehousing,Warehousing,Warehouse - Extra High hazard
+Transport and Warehousing,Warehousing,Warehouse - High hazard
+Transport and Warehousing,Warehousing,Warehouse - Low Hazard
+Transport and Warehousing,Warehousing,Warehouse - Medium Hazard
+Transport and Warehousing,Warehousing - Cold Storage,Warehouse - Cold Storage
+Waste Management,Waste Management / Recycling,Battery Recycling
+Waste Management,Waste Management / Recycling,Junk Yard / Scrap Metal Recycling
+Waste Management,Waste Management / Recycling,"Recycling, Disposal, Incineration"
+Waste Management,Waste Management / Recycling,Waste Management Facility

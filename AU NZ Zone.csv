@@ -1,4 +1,4 @@
-﻿Country Name,Cresta Id,Zone Code,Zone Name
+﻿Country Name,Cresta Id,Postcode,Zone Name
 Australia,Australia CR17,800,Darwin
 Australia,Australia CR17,810,Darwin
 Australia,Australia CR17,812,Darwin
@@ -3720,3 +3720,4 @@ New Zealand,New Zealand STL,9884,Southland Region
 New Zealand,New Zealand STL,9891,Southland Region
 New Zealand,New Zealand STL,9892,Southland Region
 New Zealand,New Zealand STL,9893,Southland Region
+
